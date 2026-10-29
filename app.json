@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "CodeSteps: Python Basics",
+    "slug": "codesteps-python-basics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#F6F2E9"
+    },
+    "android": {
+      "package": "com.divya.seerangan.codesteps",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#236B4A"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
