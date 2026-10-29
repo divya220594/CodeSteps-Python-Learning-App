@@ -4,7 +4,7 @@ An offline-first React Native / Expo Android learning app for first-time Python 
 
 ## What is included
 
-- Expo SDK 57 project configured for Android API 36
+- Expo SDK 58 project configured for Android API 36
 - English/Tamil lesson toggle and four interactive lessons
 - Quiz feedback and local progress saved on the device
 - 1024×1024 Play icon and adaptive launcher icon
@@ -25,7 +25,7 @@ Scan the QR code with Expo Go on Android to preview. For a production-style Andr
 
 ## Build an Android App Bundle
 
-Expo SDK 57 targets Android API 36, matching Google Play's new-app target requirement from 31 August 2026.
+Expo SDK 58. targets Android API 36, matching Google Play's new-app target requirement from 31 August 2026.
 
 1. Install EAS CLI: `npm install --global eas-cli`
 2. Sign in: `eas login`
